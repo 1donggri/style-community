@@ -16,7 +16,7 @@
     			<a class="nav-link" href="#" style="color: black;">스타일 랭킹</a>
   			</li>
   			<li class="nav-item">
-    			<a class="nav-link" href="#" style="color: black;">커뮤니티</a>
+    			<a class="nav-link" href="/styleCommunity/community" style="color: black;">커뮤니티</a>
   			</li>
   			<li class="nav-item">
     			<a class="nav-link" href="#" style="color: black;">마이페이지</a>
